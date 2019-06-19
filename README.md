@@ -32,11 +32,11 @@ That's $0.060 per mL of pure alcohol.
 Experimenting with different values, I compared the price of a 6 pack of No Name beer (which was supposedly one of the first versions "buck a beer" that our loser premier Doug Ford tried to foist on us). Here's the result:
 
 ```
-Enter bottle size in mL: 2046
-Enter price in dollars: 10.45
+Enter bottle size in mL: 341
+Enter price in dollars: 1.74
 Enter abv: 5
 Enter bottle return in cents: 10
-That's $0.101 per mL of pure alcohol.
+That's $0.096 per mL of pure alcohol.
 ```
 
 Here is the result for a can of Tatra:
