@@ -7,11 +7,13 @@ My friends and I were sitting around half corked after the Raptors soundly kicke
 
 In the spirit of competition, this is how I decided to find out.
 
-Anyway, this turned out kinda neat and vaguely useful, so maybe I'll turn this into something a little more polished and feature-ful. Feel free to push some code my way if you like the idea.
+This turned out kinda neat and vaguely interesting, so maybe I'll turn this into something a little more polished and feature-ful. Feel free to push some code my way if you like the idea. I plan on adding an abv/abw conversion / comparison as well, but first I have to plan out a better UI so it doesn't start to feel like a game of 20 questions. 
 
 ## What?
 
-Right now, all it does is ask you for the size of the bottle, the price of the bottle, how much alcohol (in abv) is in the bottle, and what the bottle return is. Where I'm from, beer and small containers are 10c while wine and other larger format bottles are 20c.
+Right now, all it does is ask you for the size of the bottle, the price of the bottle, how much alcohol (in abv) is in the bottle, and what the bottle return is. Of course, "bottle" includes cans, tetra packs, bar glasses, pitchers, etc. 
+
+Where I'm from, beer and small containers are 10c while wine and other larger format bottles are 20c. If your area doesn't do bottle/can returns, then you can just put in a 0 for now.
 
 ## License
 
