@@ -45,10 +45,10 @@ Here is the result for a can of Tatra (one of my favourites):
 
 ```
 Enter bottle size in mL: 500
-Enter price in dollars: 2.10
+Enter price in dollars: 2.15
 Enter abv: 5.5
 Enter bottle return in cents: 10
-That's $0.073 per mL of pure alcohol.
+That's $0.075 per mL of pure alcohol.
 ```
 
 In Canada, we often assume Euro products are more expensive than our more local items. Looks like that's not always the case! Although a good lot of the different drinks I compared were often higher than $0.10/ml of pure alcohol, so the No Name brand beer is still cheaper than most if that's your goal.
