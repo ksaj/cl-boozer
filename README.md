@@ -15,7 +15,7 @@ Right now, all it does is ask you for the size of the bottle, the price of the b
 
 ## License
 
-It's public domain. I mean, it's only practical (?) use would be to help you get drunk for the cheapest price possible. So drink a toast for me if you find this at all useful.
+It's public domain. I mean, its only practical (?) use would be to help you get drunk for the cheapest price possible. So drink a toast for me if you find this at all useful.
 
 ## And....?
 
