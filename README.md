@@ -21,4 +21,12 @@ It's public domain. I mean, its only practical (?) use would be to help you get 
 
 Oh yea... ends up, Apera is by far the cheapest swill we had, at a whopping 6 cents per ml of alcohol. Wanna get smashed, that's how you do it!
 
+```
+Enter bottle size in mL: 750
+Enter price in dollars: 9.20
+Enter abv: 20
+Enter bottle return in cents: 20
+That's $0.060 per mL of pure alcohol.
+```
+
 # PLEASE DRINK RESPONSIBLY
