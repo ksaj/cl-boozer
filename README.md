@@ -29,7 +29,7 @@ Enter bottle return in cents: 20
 That's $0.060 per mL of pure alcohol.
 ```
 
-Experimenting with different values, I compared the price of a 6 pack of No Name beer (which was supposedly one of the first versions "buck a beer" that our loser premier Doug Ford tried to foist on us). Here's the result:
+Experimenting with different values, I compared the price of a 6 pack of No Name beer, which by definition should be among the cheapest of the beers. Here's the result:
 
 ```
 Enter bottle size in mL: 341
@@ -39,7 +39,7 @@ Enter bottle return in cents: 10
 That's $0.096 per mL of pure alcohol.
 ```
 
-Here is the result for a can of Tatra:
+Here is the result for a can of Tatra (one of my favourites):
 
 ```
 Enter bottle size in mL: 500
@@ -49,6 +49,6 @@ Enter bottle return in cents: 10
 That's $0.073 per mL of pure alcohol.
 ```
 
-Ever get the feeling your boozy Premier doesn't know wtf he's talking about? Ends up pretty much all the Euro beers are cheaper than his first example of buck-a-beer-that-wasn't. And it's not even a buck a beer. Hell, he came up with that idea when $1.35 beer was legal, and that wasn't available anywhere either. Can't wait til we can vote his stupid ass out.
+In Canada, we often assume Euro products are more expensive than our more local items. Looks like that's not always the case! Although a good lot of the different drinks I compared were often higher than $0.10/ml of pure alcohol, so the No Name brand beer is still cheaper than most if that's your goal.
 
 # PLEASE DRINK RESPONSIBLY
