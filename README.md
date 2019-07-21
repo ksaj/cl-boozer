@@ -21,7 +21,7 @@ It's public domain. I mean, its only practical (?) use would be to help you get 
 
 ## And....?
 
-Oh yea... ends up, Apera is by far the cheapest swill we had, at a whopping 6 cents per ml of alcohol. Wanna get smashed, that's how you do it!
+Oh yea... ends up, Canadian Sherry (Aspera) is by far the cheapest swill we had, at a whopping 6 cents per ml of alcohol. Wanna get smashed, that's how you do it! They're all priced similarly here, but ymmv.
 
 ```
 Enter bottle size in mL: 750
