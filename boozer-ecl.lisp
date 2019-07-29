@@ -1,4 +1,16 @@
-; simply load in CL REPL and click on the menu's lambda symbol to run. 
+#|
+
+This has only been tested to work in Android CL REPL.
+
+https://play.google.com/store/apps/details?id=org.eql5.android.repl
+https://gitlab.com/eql/EQL5-Android/find_file/master
+
+Simply load in CL REPL and click on the menu's lambda symbol to run. 
+
+I'll probably update this to match updates from the .lisp version
+as they happen.
+
+|#
 
 (defvar bottle-size 0)
 (defvar bottle-price 0)
