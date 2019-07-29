@@ -1,7 +1,7 @@
 # cl-boozer
 A script in Common Lisp to spec out booze in terms of dollars per ml of pure alcohol
 
-Boozer.lisp is standard CL, and boozer-ecl.lisp is simplified and altered a bit too work on CL REPL for Android. Otherwise they are the same. 
+Boozer.lisp is standard CL, while boozer-ecl.lisp is simplified and altered a bit to work on CL REPL for Android. Otherwise they are technically the same. 
 
 ## Why?
 
