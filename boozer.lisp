@@ -42,5 +42,4 @@ to greatly shorten the code.
 
 (boozer)
 
-
 ; Done functionally in case I get around to extending this thing... w00t!
