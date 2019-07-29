@@ -1,3 +1,5 @@
+; simply load in CL REPL and click on the menu's lambda symbol to run. 
+
 (defvar bottle-size 0)
 (defvar bottle-price 0)
 (defvar abv 0)
