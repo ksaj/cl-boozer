@@ -1,6 +1,8 @@
 # cl-boozer
 A script in Common Lisp to spec out booze in terms of dollars per ml of pure alcohol
 
+Boozer.lisp is standard CL, and boozer-ecl.lisp is simplified and altered a bit too work on CL REPL for Android. Otherwise they are the same. 
+
 ## Why?
 
 My friends and I were sitting around half corked after the Raptors soundly kicked some Warriors butt, and got to wondering what was the cheapest booze we had. Ends up, simply guessing is harder than you'd expect. Is it cheaper to get drunk on a 3/4 litre bottle of whisky or a fridge full of tall boys of strong Polish beer? How about that enticing bottle of fine Ontario cab-sauv?
