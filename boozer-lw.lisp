@@ -3,7 +3,9 @@ Boozer for LispWorks
 --------------------
 
 Compare alcohol prices between different beverages of different sizes by
-calculating the cost per mg of pure alcohol.
+calculating the cost per mL of pure alcohol. 
+
+Please Drink Responsibly. And cheaper!
 
 |#
 
