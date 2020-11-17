@@ -11,9 +11,9 @@ Please Drink Responsibly. And cheaply!
 
 (defun lw-boozer ()
  "Asks a few questions, then tells you how much the alcohol content costs per mg."
-  (let ((bottle-size    (capi:prompt-for-number "Enter bottle size in mL:"))
-        (bottle-price   (capi:prompt-for-number "Enter price in dollars:"))
-        (abv            (capi:prompt-for-number "Enter ABV:"))
+  (let ((bottle-size    (capi:prompt-for-number "Enter bottle size in mL:"      ))
+        (bottle-price   (capi:prompt-for-number "Enter price in dollars:"       ))
+        (abv            (capi:prompt-for-number "Enter ABV:"                    ))
         (bottle-return  (capi:prompt-for-number "Enter bottle return in cents:")))
 
   (capi:display-message "That's $~3$ per mL of pure alcohol."
